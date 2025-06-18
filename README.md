@@ -1,7 +1,7 @@
-# New_Project_Central
+# New_Project_Central💼
 ## Description and Overview
 Project Central serves as a streamlined and accessible hub for all ongoing projects within the company, providing a centralized view of their status and key information. Recognizing the challenges of scattered project details across various platforms and communication channels, this project aimed to create a single source of truth for project oversight and collaboration. Built using the robust capabilities of SQL for database management, the analytical power of Python for data processing, and the user-friendly interface of Streamlit for visualization, Project Central offers an intuitive way to track progress, access essential documents, and gain insights into the company's project portfolio.
-## Key Features
+## Key Features🕵️‍♂️
 
 * **Centralized Project Repository:** Provides a single location to view all active, upcoming, and completed company projects.
 * **Project Status Tracking:** Allows users to easily see the current status (e.g., In Progress, On Hold, Completed) of each project.
@@ -13,7 +13,7 @@ Project Central serves as a streamlined and accessible hub for all ongoing proje
 * **Data Insights and Reporting:** Provides reports or summaries of the overall project portfolio, potentially highlighting key metrics or potential risks.
 * **Real-time Updates (Potentially):** If you implemented real-time features, users might see immediate updates on project status or document changes.
 * **Team Collaboration Features (Potentially):** Depending on the scope, you might have features for communication or collaboration within project pages.
-  ## Technologies Used
+  ## Technologies Used👩‍💻
 
 * **Programming Language:** Python
 * **Libraries:**
@@ -24,7 +24,7 @@ Project Central serves as a streamlined and accessible hub for all ongoing proje
 * **Other Tools:**
     * Azure Portal (for managing the Azure SQL Database)
     * IDE (VS Code)
-## Setup/Installation
+## Setup/Installation👩‍🔧
 1.  **Clone the repository:**
     ```bash
     git clone [(https://github.com/Khomfort/New_Project_Central.git)]
@@ -57,7 +57,7 @@ Project Central serves as a streamlined and accessible hub for all ongoing proje
     ```bash
     streamlit run main.py
     ```
-## Usage
+## Usage👩‍🔬
 
 1.  **Access the Application:**
     * Open your web browser and navigate to the URL where the Project Central application is running.
@@ -85,7 +85,7 @@ Project Central serves as a streamlined and accessible hub for all ongoing proje
         * Click on a document to open or download it.
 
 * Consider adding a few screenshots showing the main screens of your application (e.g., the project overview page, a project detail page, a sample report or visualization). This will make the usage instructions much clearer. You can use Markdown to embed images: `![Screenshot of Project Overview](path/to/overview_screenshot.png)`
-## Challenges and Learnings
+## Challenges and Learnings🥂
 
 During the development of Project Central, I encountered several key challenges:
 
